@@ -29,6 +29,14 @@
 \subsubsection{小小节}
 ```
 
+### 字体
+```tex
+宋体 \song
+黑体 \hei
+宋体加粗 \bfsong
+黑体加粗 \bfhei
+
+```
 ### 引用
 #### BibTeX
 ```tex
